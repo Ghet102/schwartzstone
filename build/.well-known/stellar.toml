@@ -1,31 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GBADHTQFXSB4PWQBIX2CJIZT2WJT3JKXJXSKLV2WZDR2RFEZXPTGIPGR",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
+ORG_NAME="Black Rock"
+ORG_URL="https://brstellar.fund"
+ORG_DESCRIPTION="BlackRock is one of the world’s leading providers of investment, advisory and risk management solutions. We are a fiduciary to our clients. We’re investing for the future on behalf of our clients, inspiring our employees, and supporting our local communities."
+ORG_LOGO="https://i.ibb.co/cgNbvQW/blackrock.png"
 
 [[PRINCIPALS]]
-name=""
+name="Larry Fink"
 
 
 [[CURRENCIES]]
-code=""
+code="IBIT"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GBADHTQFXSB4PWQBIX2CJIZT2WJT3JKXJXSKLV2WZDR2RFEZXPTGIPGR"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="Ishares|Bitcoin|Trust"
+desc="Introducing IBIT, which gives investors access to bitcoin through the convenience and familiarity of an ETF. Transactions are publicly recorded on blockchain. Send payment regardless of location with no currency conversion needed."
+image="https://i.ibb.co/br1xxC2/Ibit.png"
+fixed_number=1493219
+max_number=1493219
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.
+#Ishares Bitcoin Trust was issued using the open and inclusive Stellar blockchain network.
